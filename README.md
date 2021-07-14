@@ -2,7 +2,7 @@
 
 ## 简介       
 
-​        本字幕手抄自 [Bilibili](https://www.bilibili.com/bangumi/media/md28229887/) 中国大陆版权字幕，文件名及时轴匹配 jsum@U2 的 BD 时间轴（理论上其它 BDRip 也能匹配）。目前**只有 srt 版本**。
+本字幕由本人亲自手抄自 [Bilibili](https://www.bilibili.com/bangumi/media/md28229887/) 中国大陆版权字幕，并校正时轴。本字幕文件名及时轴匹配 jsum@U2 的 BD 时间轴（理论上其它 BDRip 也能匹配）。目前**只有 srt 版本**。
 
 ## 鸣谢
 
@@ -36,7 +36,7 @@ A1: 本片除了版权字幕外，仅有极影字幕组的[作品](https://nyaa.
 
 ![AGPL.v3](https://www.gnu.org/graphics/agplv3-155x51.png)
 
-​        具体释义及注意事项请参见 [.subbers project](https://subbers.org/subtitles/)。（这并不代表本字幕跟 .subbers project 或其中的任何成员有任何联系）
+具体释义及注意事项请参见 [.subbers project](https://subbers.org/subtitles/)。（这并不代表本字幕跟 .subbers project 或其中的任何成员有任何联系）
 
 ## 反馈
 
