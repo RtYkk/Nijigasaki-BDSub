@@ -21,14 +21,14 @@ A1: 本片除了版权字幕外，仅有极影字幕组的[作品](https://nyaa.
 
 ## 已知问题
 
-- OP 和 ED 字幕缺失
-- 插曲字幕缺失
+- OP、ED 和的字幕缺失 *第 4 集中我对 OP 字幕进行了试作，但是准确度应该欠佳，如有仁人义士想要获取 OP 字幕进行改造可以使用[第四集的字幕文件](https://github.com/RtYkk/Nijigasaki-BDSub/blob/master/srt/%5BLove%20Live!%20Nijigasaki%20Gakuen%20School%20Idol%20Doukoukai%5D%5B04%5D%5BENG%5D%5BBDRIP%5D%5B1080P%5D%5BH264_FLAC%5D.sc.srt)。
+- 屏幕字缺失
 - 仍可能存在错别字、时轴未对齐等小问题
 
 ## TODO
 
-- [ ] 补全 OP 和 ED 的字幕
-- [ ] 补全插曲字幕
+- [ ] 补全 OP、ED 和插曲的字幕
+- [ ] 补全屏幕字
 - [ ] 修正小问题
 - [ ] **等一个有缘人来做后期，推出`.ass`版本**
 
