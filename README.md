@@ -4,6 +4,8 @@
 
 本字幕由本人亲自手抄自 [Bilibili](https://www.bilibili.com/bangumi/media/md28229887/) 中国大陆版权字幕，并校正时轴。本字幕文件名及时轴匹配 jsum@U2 的 BD 时间轴（理论上其它 BDRip 也能匹配）。目前**只有 srt 版本**。
 
+第一版已经发布，请前往 [release](https://github.com/RtYkk/Nijigasaki-BDSub/releases) 页下载。
+
 ## 鸣谢
 
 - [黃藥師@zhihu](https://www.zhihu.com/people/huang-yao-shi-91-46) 制作的[硬字幕提取工具](https://zhuanlan.zhihu.com/p/358785717)：如果没有这个工具帮我把各个需要的工具串联起来，我很难如此方便的完成这一整个工作流。删合、校对、一键制作 SRT 也是极其方便的功能。
