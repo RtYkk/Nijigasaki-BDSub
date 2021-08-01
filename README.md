@@ -6,6 +6,14 @@
 
 第一版已经发布，请前往 [release](https://github.com/RtYkk/Nijigasaki-BDSub/releases) 页下载。
 
+
+
+**已弃坑**，弃坑原因：有其他人已经手抄了极影字幕并附带全部 OP、ED 和插曲。
+
+原地址：https://bbs.vcb-s.com/thread-7941-1-1.html （登录可见），没有账号的人可以去[这里](https://github.com/RtYkk/Nijigasaki-BDSub/tree/others-ver/others'%20version)下载。
+
+感谢 [jiheidemifan](https://bbs.vcb-s.com/space-uid-24985.html)@vcb-s bbs
+
 ## 鸣谢
 
 - [黃藥師@zhihu](https://www.zhihu.com/people/huang-yao-shi-91-46) 制作的[硬字幕提取工具](https://zhuanlan.zhihu.com/p/358785717)：如果没有这个工具帮我把各个需要的工具串联起来，我很难如此方便的完成这一整个工作流。删合、校对、一键制作 SRT 也是极其方便的功能。
@@ -19,7 +27,7 @@ Q1: 为什么选择 [Bilibili](https://www.bilibili.com/bangumi/media/md28229887
 
 A1: 本片除了版权字幕外，仅有极影字幕组的[作品](https://nyaa.si/view/1321483)。1、字幕质量互有优劣（不懂日语，仅凭文字表达，通过几行字幕的判断）。我尤其喜欢 Bilibili 在插曲时使用的特效字幕，虽然本手抄中并没有。2、使用版权字幕规避不必要的风险，比如因未授权使用而被极影组的人找上门。3、电脑里有现成的 Bilibili Web-DL，不需要重新下载。
 
-如果您~~有叔叔 PTSD~~ 认为版权字幕质量欠佳，请自行前往 nyaa 或其它 BT 站点下载[极影内嵌版本](https://nyaa.si/view/1321483)。
+如果您~~有叔叔 PTSD~~ 认为版权字幕质量欠佳，请~~自行前往 nyaa 或其它 BT 站点下载[极影内嵌版本](https://nyaa.si/view/1321483)。~~
 
 ## 已知问题
 
@@ -27,12 +35,12 @@ A1: 本片除了版权字幕外，仅有极影字幕组的[作品](https://nyaa.
 - 屏幕字缺失
 - 仍可能存在错别字、时轴未对齐等小问题
 
-## TODO
+## ~~TODO~~
 
-- [ ] 补全 OP、ED 和插曲的字幕
-- [ ] 补全屏幕字
-- [ ] 修正小问题
-- [ ] **等一个有缘人来做后期，推出`.ass`版本**
+- [ ] ~~补全 OP、ED 和插曲的字幕~~
+- [ ] ~~补全屏幕字~~
+- [ ] ~~修正小问题~~
+- [ ] ~~**等一个有缘人来做后期，推出`.ass`版本**~~
 
 ## LICENCE
 
